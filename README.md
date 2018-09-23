@@ -1,7 +1,7 @@
 # README
 This repository is for "Focal Loss in 3D Object Detection".
 We are self-checking our whole codes and will release the codes again in early October.
-If you use this code, we would appreciate if you cite our [paper](https://arxiv.org/abs/1809.06065):
+<!-- If you use this code, we would appreciate if you cite our [paper](https://arxiv.org/abs/1809.06065):
 ```
 @article{yun2018fl3d,
   title={Focal Loss in 3D Object Detection},
@@ -9,7 +9,7 @@ If you use this code, we would appreciate if you cite our [paper](https://arxiv.
   journal={arXiv preprint arXiv:1809.06065},
   year={2018}
 }
-```
+``` -->
 ## Organization
 It contains two parts: 3D-FCN and VoxelNet as claimed in our paper.
 For detailed information of these two parts, please refer the sub-README in each dir.
