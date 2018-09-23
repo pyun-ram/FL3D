@@ -1,5 +1,6 @@
 # README
 This repository is for "Focal Loss in 3D Object Detection".
+We are self-checking our whole codes and will release the codes again in early October.
 If you use this code, we would appreciate if you cite our [paper](https://arxiv.org/abs/1809.06065):
 ```
 @article{yun2018fl3d,
