@@ -9,7 +9,6 @@ If you use this code for academic purpose, we would appreciate if you cite our [
   year={2018}
 }
 ``` 
-If you use this code for commercial purpose, you can directly contact us.
 
 ## Organization
 It contains two parts: 3D-FCN and VoxelNet as claimed in our paper.
