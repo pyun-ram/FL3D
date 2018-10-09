@@ -1,0 +1,7 @@
+*
+!.gitignore
+!evaluate_object_3d_offline.cpp
+!evaluate_object_3d.cpp
+!mail.h
+!README.md
+!launch_test.sh

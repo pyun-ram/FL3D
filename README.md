@@ -23,6 +23,5 @@ docker pull pyun/3d-fcn:tf1.7
 # Then launch a container with nvidia-docker 1.0
 ```
 ## Acknowledgments
-Network skeleton borrows from [voxelnet](https://github.com/qianguih/voxelnet).
-3D-FCN skeleton is adapted from [3D-FCN](https://github.com/yukitsuji/3D_CNN_tensorflow).
 Kitti evaluation borrows from [kitti_eval](https://github.com/prclibo/kitti_eval).
+Network skeletons are adapted from [voxelnet](https://github.com/qianguih/voxelnet) and [3D-FCN](https://github.com/yukitsuji/3D_CNN_tensorflow).
