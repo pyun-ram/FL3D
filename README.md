@@ -1,7 +1,6 @@
 # README
 This repository is for "Focal Loss in 3D Object Detection".
-We are self-checking our whole codes and will release the codes again in early October.
-<!-- If you use this code, we would appreciate if you cite our [paper](https://arxiv.org/abs/1809.06065):
+If you use this code, we would appreciate if you cite our [paper](https://arxiv.org/abs/1809.06065):
 ```
 @article{yun2018fl3d,
   title={Focal Loss in 3D Object Detection},
@@ -9,7 +8,8 @@ We are self-checking our whole codes and will release the codes again in early O
   journal={arXiv preprint arXiv:1809.06065},
   year={2018}
 }
-``` -->
+``` 
+
 ## Organization
 It contains two parts: 3D-FCN and VoxelNet as claimed in our paper.
 For detailed information of these two parts, please refer the sub-README in each dir.
@@ -24,4 +24,4 @@ docker pull pyun/3d-fcn:tf1.7
 ```
 ## Acknowledgments
 Kitti evaluation borrows from [kitti_eval](https://github.com/prclibo/kitti_eval).
-Network skeletons are adapted from [voxelnet](https://github.com/qianguih/voxelnet) and [3D-FCN](https://github.com/yukitsuji/3D_CNN_tensorflow).
+Network skeletons are adapted from [qianguih/voxelnet](https://github.com/qianguih/voxelnet), [jeasinema/VoxelNet-tensorflow](https://github.com/jeasinema/VoxelNet-tensorflow) and [yukitsuji/3D_CNN_tensorflow](https://github.com/yukitsuji/3D_CNN_tensorflow).
